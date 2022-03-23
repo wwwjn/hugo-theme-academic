@@ -41,12 +41,13 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} by Jiani Wang. This work is licensed under MIT license.'
     license:
-      enable: true
-      allow_derivatives: false
+      enable: false
+      allow_derivatives: true
       share_alike: true
       allow_commercial: false
+      
 
 # Localization
 
