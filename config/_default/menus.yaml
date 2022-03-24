@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Blog
-    url: https://wwwjn.github.io
+    url: https://wwwjn.github.io/blog
     weight: 20
   - name: Projects
     url: '#projects'

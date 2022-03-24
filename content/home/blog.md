@@ -11,5 +11,5 @@ design:
   columns: '2'
 ---
 
-This is my blog: [Jiani's Blog](https://wwwjn.github.io/). The blog contains my 
+This is my blog: [Jiani's Blog](https://wwwjn.github.io/blog). The blog contains my 
 course notes and something about my life.

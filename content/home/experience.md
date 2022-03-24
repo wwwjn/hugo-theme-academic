@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Assitant
+    company: CodaLab Team, Stanford Artificial Intelligence Laboratory
+    company_url: 'https://codalab.org/'
+    company_logo: stanford-color
+    location: Stanford, California
+    date_start: '2022-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Backend Developing
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Engineer, Full-time
+    company: Bytedance, Group of System and Networking
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: bytedance
+    location: Beijing, China
+    date_start: '2020-07-01'
+    date_end: '2021-05-01'
+    description: |2-
+        - Datacenter Network Management System Development: Intent-Based Networking (IBN) System
+        -  Web application Development: A full-stack website for datacenter status visualization and statistics analysis
+        
+  - title: Research Assistant
+    company: Tsinghua University, Beijing, China
+    company_url: ''
+    company_logo: tsinghua
+    location: Beijing, China
+    date_start: '2020-07-01'
+    date_end: '2021-05-01'
+    description: |2-
+        - Introduced Hypergraph Convolution into multiple 3D data modalities fusion (including three modalities of 3D data: point cloud, multi-view and mesh)
+        - Extended Hypergraph Convolutional Networks to a generalized version
 
 design:
   columns: '2'
